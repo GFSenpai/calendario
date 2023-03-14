@@ -1,5 +1,5 @@
-# js-calendar
- Calendar UI Design with Dark Mode and Animation Using HTML CSS JavaScript
+# calendario
+Design de interface do usuário do calendário com modo escuro e animação usando HTML CSS JavaScript
 
 ![preview](img/preview.png)
 
