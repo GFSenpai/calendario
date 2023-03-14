@@ -1,5 +1,5 @@
 # calendario
-Design de interface do usuário do calendário com modo escuro e animação usando HTML CSS JavaScript
+Interface do calendário com modo escuro e animação usando HTML CSS JavaScript
 
 ![preview](img/preview.png)
 
